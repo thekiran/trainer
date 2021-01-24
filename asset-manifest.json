@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/training-site/static/css/main.88ed1894.chunk.css",
-    "main.js": "/training-site/static/js/main.f394176d.chunk.js",
-    "main.js.map": "/training-site/static/js/main.f394176d.chunk.js.map",
+    "main.css": "/training-site/static/css/main.26263a7c.chunk.css",
+    "main.js": "/training-site/static/js/main.6326b740.chunk.js",
+    "main.js.map": "/training-site/static/js/main.6326b740.chunk.js.map",
     "runtime-main.js": "/training-site/static/js/runtime-main.e8b989d0.js",
     "runtime-main.js.map": "/training-site/static/js/runtime-main.e8b989d0.js.map",
-    "static/js/2.6c601522.chunk.js": "/training-site/static/js/2.6c601522.chunk.js",
-    "static/js/2.6c601522.chunk.js.map": "/training-site/static/js/2.6c601522.chunk.js.map",
+    "static/js/2.17aa58ad.chunk.js": "/training-site/static/js/2.17aa58ad.chunk.js",
+    "static/js/2.17aa58ad.chunk.js.map": "/training-site/static/js/2.17aa58ad.chunk.js.map",
     "index.html": "/training-site/index.html",
-    "static/css/main.88ed1894.chunk.css.map": "/training-site/static/css/main.88ed1894.chunk.css.map",
-    "static/js/2.6c601522.chunk.js.LICENSE.txt": "/training-site/static/js/2.6c601522.chunk.js.LICENSE.txt",
+    "static/css/main.26263a7c.chunk.css.map": "/training-site/static/css/main.26263a7c.chunk.css.map",
+    "static/js/2.17aa58ad.chunk.js.LICENSE.txt": "/training-site/static/js/2.17aa58ad.chunk.js.LICENSE.txt",
     "static/media/app.5079be16.jpg": "/training-site/static/media/app.5079be16.jpg",
     "static/media/book-img.31487d1e.jpg": "/training-site/static/media/book-img.31487d1e.jpg",
     "static/media/book2-img.2a40dae1.jpg": "/training-site/static/media/book2-img.2a40dae1.jpg",
+    "static/media/foot-icon.e2a07bbd.jpg": "/training-site/static/media/foot-icon.e2a07bbd.jpg",
     "static/media/icon1.90156d44.jpg": "/training-site/static/media/icon1.90156d44.jpg",
     "static/media/icon2.cdcbe509.jpg": "/training-site/static/media/icon2.cdcbe509.jpg",
     "static/media/icon3.c099320a.jpg": "/training-site/static/media/icon3.c099320a.jpg",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e8b989d0.js",
-    "static/js/2.6c601522.chunk.js",
-    "static/css/main.88ed1894.chunk.css",
-    "static/js/main.f394176d.chunk.js"
+    "static/js/2.17aa58ad.chunk.js",
+    "static/css/main.26263a7c.chunk.css",
+    "static/js/main.6326b740.chunk.js"
   ]
 }
