@@ -17,6 +17,9 @@ const Book = () => {
     const buildtitleRef = React.useRef(null)
     const buildText = React.useRef(null)
 
+    const quotitleRef = React.useRef(null)
+    const quoText = React.useRef(null)
+
     React.useEffect(()=>{ 
         gsap.from(booktitleRef.current,{x:-300,scale:0,duration:.4,scrollTrigger:bookText.current})
  
@@ -30,6 +33,11 @@ const Book = () => {
         gsap.from(buildText.current,{x:400,scale:0,duration:.4,scrollTrigger:buildText.current})
  
         gsap.from(buildImgRef.current,{x:0,opacity:0,duration:2,scrollTrigger:buildText.current})
+   
+        
+        gsap.from(quotitleRef.current,{x:-200,duration:.5,scrollTrigger:quotitleRef.current})
+ 
+        gsap.from(quoText.current,{x:50,duration:2,scrollTrigger:quotitleRef.current})
     },[])
     return (
         <div className="book">
@@ -53,7 +61,7 @@ const Book = () => {
                 </div>
             </div>
             <div className="container">
-            <div className="book-content wrk">
+            <div className="book-content wrk" ref={quotitleRef}>
                     <h2>Absolutely wonderful! I am <br/>
                     completely blown away. The <br/>
                     very best. I was amazed at <br/>
@@ -61,7 +69,7 @@ const Book = () => {
                      </h2>
                      <p>- Josephine Austin</p>
                  </div>
-                 <div className="book-img">
+                 <div className="book-img" ref={quoText}>
                     <img src={wrkImg} alt=""/>
                 </div>
             </div>

@@ -1,0 +1,59 @@
+.footer{
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-weight: 900; */
+    padding: 6em 0;
+    background: rgb(24, 23, 23);
+}
+
+.footer-content{
+    max-width: 1000px;
+    margin: 0 auto;
+    color: #fff;
+}
+.footer-head{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-head .foot-head.col{
+    /* background: red; */
+    display: flex;
+}
+
+.foot-head.col img{
+    width: 100px;
+    height: 100px;
+    margin: 0 10px 0 0;
+}
+.foot-head.col .foot-contact{}
+
+.foot-contact .text{}
+.foot-contact .foot-main{}
+.foot-contact .foot-mail h2{
+    font-size: 4em;
+}
+
+.footer-head .social-icons{
+    /* background: #000; */
+    display: flex;
+}
+.social-icons .social{
+    /* background: red; */
+    padding: 40px;
+}
+.social-icons .social i{
+    font-size: 1em;
+}
+
+
+
+.footer-content .footer-body{
+    /* background: red; */
+    margin-top: 3em;
+    display: flex
+}
+.footer-content .footer-body .copy{
+    margin-right: auto;
+}
+.footer-content .footer-body span{
+    margin: 10px;
+}
