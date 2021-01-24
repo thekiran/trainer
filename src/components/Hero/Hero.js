@@ -24,7 +24,7 @@ const Hero = () => {
                     <br/>  <span className="title" ref={titleRef}>the</span>
                     <span className="title" ref={titleRef}>best</span> 
                 </h1>
-                <a href="/" className="btn btn-light title">
+                <a href="/training-site" className="btn btn-light title">
                     Get the app
                 </a>
                 </div>   
