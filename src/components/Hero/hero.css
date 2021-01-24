@@ -1,0 +1,101 @@
+.main{
+    background: #fff;
+    /* height: 530px; */
+    height: 600px;
+    perspective: 1000px;
+    padding: 20px 0;
+}
+.main-content{ 
+    max-width: 1200px;
+    /* background: rgb(56, 36, 36); */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+    height: 100%;
+}
+
+.main-text{
+    /* background: red;  */
+    margin-top: 9em;
+}
+.main-title{
+    font-size: 6em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    /* background: #eee; */
+    /* margin: auto 0;  */
+}
+.main-title .red-text{
+    color: #e31702;
+    /* margin: 0 10px 0 0; */
+}
+.title{
+    margin: 0 10px;
+    display: inline-block;
+}
+.btn.btn-light{
+    display: block;
+    font-size: 1.3em; 
+    font-weight: 700;
+    padding: 15px; 
+    cursor: pointer; 
+    border-radius: 25px;
+    background: #DDDFE2;
+    color: #e31702;
+    font-family: 'Roboto', sans-serif;
+    margin: 30px 0;
+    position: relative;
+    width: fit-content;
+    transition: all .25s ease-in-out;
+    text-decoration: none;
+}
+
+.btn.btn-light::after{
+    content: '>>';
+    position: absolute;
+    left: 150px;
+    top: 5px;
+    height: 100%;
+    width: 100%;
+    font-size: 2em;
+    opacity: 0;
+    transform: translateX(-100px);transition: all .25s cubic-bezier(.72,1.59,0,1.15);
+}
+
+
+.btn.btn-light:hover{
+    padding-right: 100px;
+    /* background: #e31702;
+    color:  #DDDFE2; */
+}
+.btn.btn-light:hover::after{
+    opacity: 1;
+    transform: translateX(0px);
+    /* transform: rotate(-90deg); */
+}
+.main-img{
+    height: 500px;
+    width: 300px; 
+    margin-top: 4em;
+    /* background: #000; */
+    /* transform: translateZ(100px); */
+}
+
+.main-img.active{
+ /* padding-right: 200px; */
+}
+.main-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+
+/* #DDDFE2 whit
+#8e97a6 gry
+#e31702 red 
+#332622 dr gry
+#e2c884 li pink
+#c65730 li brown
+#c98c72 last */

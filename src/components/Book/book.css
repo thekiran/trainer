@@ -1,0 +1,82 @@
+.book{
+    /* background: red; */
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.book .container{
+    display: flex;
+    margin: 8em auto;
+}
+.book-content{
+    width: 50%;
+    /* background: white; */
+}
+.book-content h2{
+    font-size: 4em;
+    margin: .5em 0 0 1em;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 900;
+}
+.book-content p{
+    font-size: 1.3em;
+    margin: 3em auto 0 auto;
+    line-height: 2;
+    width:400px; 
+    font-weight: 600;
+}
+
+.book-img{
+    width: 50%;
+height: 575px;
+}
+.book-img img{
+    max-width: 100%;
+    max-height: 100%;
+    /* min-width: 300px;
+    min-height: 200px; */
+}
+
+
+.book-content.wrk h2{
+    font-size: 2.5em;
+    margin: 4em 0 0 0em;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+}
+.ap{
+    background: #f54e06;
+}
+.app{
+    width:1200px;
+    height: 800px;
+    display: block;
+    margin:0 auto; 
+}
+.app img{
+    width: 100%;
+    height: 100%;
+}
+
+.app-content{
+    width:1200px ;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;  
+}
+.app-content h1{
+    /* display: block; */
+    /* margin: 2em auto; */
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    width: fit-content;
+    color: #fff;
+}
+.app-content .btn{
+    background: #fff;
+}
