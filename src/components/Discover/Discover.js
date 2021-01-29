@@ -15,7 +15,7 @@ const Discover = () => {
 
         gsap.from(disPara.current,{x:100,scrollTrigger:'.dis-para', opacity:0,stagger:.1,duration:.4,opacity:0})
   
-        gsap.from(disImg.current,{x:-100,scrollTrigger:'.dis-para', opacity:0,duration:.4,opacity:0})
+        gsap.from(disImg.current,{x:-100,scrollTrigger:'.bic', opacity:0,duration:.4,opacity:0})
   
     },[])
     return (

@@ -6,6 +6,7 @@
     margin: 15px auto;
     display: flex;
     justify-content: space-between;
+    padding: 0 30px;
 }
 .brand{
     font-size: 3.3em;
@@ -46,4 +47,10 @@
     border-radius: 5px;
     color: #DDDFE2;
     background: #e31702;
+}
+@media(max-width:600px){
+    
+.nav-links{
+    display: none
+}
 }

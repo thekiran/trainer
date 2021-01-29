@@ -12,7 +12,7 @@ const Home = () => {
         <Fragment>
           <Navbar />
           <Hero />
-          <Discover />
+          <Discover /> 
           <Brands />
           <Book  />
           <Footer />

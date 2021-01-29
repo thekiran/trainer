@@ -1,8 +1,7 @@
 .main{
     background: #fff;
     /* height: 530px; */
-    height: 600px;
-    perspective: 1000px;
+    /* height: 600px;  */
     padding: 20px 0;
 }
 .main-content{ 
@@ -11,13 +10,14 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    /* align-items: flex-start; */
+    padding: 0 30px;
     height: 100%;
 }
 
 .main-text{
     /* background: red;  */
     margin-top: 9em;
+    /* text-align: center; */
 }
 .main-title{
     font-size: 6em;
@@ -92,10 +92,21 @@
 }
 
 
-/* #DDDFE2 whit
-#8e97a6 gry
-#e31702 red 
-#332622 dr gry
-#e2c884 li pink
-#c65730 li brown
-#c98c72 last */
+@media(max-width: 768px){
+    .main-content
+{
+    flex-direction: column;
+
+}
+.main-text{  
+    text-align: center;
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4em;
+}
+.main-img{
+    margin: 4em auto 0 auto;
+}
+}

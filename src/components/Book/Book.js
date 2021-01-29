@@ -28,11 +28,11 @@ const Book = () => {
         gsap.from(bookImgRef.current,{x:0,opacity:0,duration:2,scrollTrigger:bookText.current})
  
 
-        gsap.from(buildtitleRef.current,{x:300,scale:0,duration:.4,scrollTrigger:buildText.current})
+        gsap.from(buildtitleRef.current,{x:300,scale:0,duration:.4,scrollTrigger:buildtitleRef.current})
  
         gsap.from(buildText.current,{x:400,scale:0,duration:.4,scrollTrigger:buildText.current})
  
-        gsap.from(buildImgRef.current,{x:0,opacity:0,duration:2,scrollTrigger:buildText.current})
+        gsap.from(buildImgRef.current,{x:0,opacity:0,duration:2,scrollTrigger:buildImgRef.current})
    
         
         gsap.from(quotitleRef.current,{x:-200,duration:.5,scrollTrigger:quotitleRef.current})
