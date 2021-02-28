@@ -1,35 +1,27 @@
 {
   "files": {
-    "main.css": "/training-site/static/css/main.27e7636d.chunk.css",
-    "main.js": "/training-site/static/js/main.44178b8d.chunk.js",
-    "main.js.map": "/training-site/static/js/main.44178b8d.chunk.js.map",
+    "main.css": "/training-site/static/css/main.39c13a67.chunk.css",
+    "main.js": "/training-site/static/js/main.ce21b33a.chunk.js",
+    "main.js.map": "/training-site/static/js/main.ce21b33a.chunk.js.map",
     "runtime-main.js": "/training-site/static/js/runtime-main.e8b989d0.js",
     "runtime-main.js.map": "/training-site/static/js/runtime-main.e8b989d0.js.map",
-    "static/js/2.17aa58ad.chunk.js": "/training-site/static/js/2.17aa58ad.chunk.js",
-    "static/js/2.17aa58ad.chunk.js.map": "/training-site/static/js/2.17aa58ad.chunk.js.map",
+    "static/js/2.ecaf8a2f.chunk.js": "/training-site/static/js/2.ecaf8a2f.chunk.js",
+    "static/js/2.ecaf8a2f.chunk.js.map": "/training-site/static/js/2.ecaf8a2f.chunk.js.map",
     "index.html": "/training-site/index.html",
-    "static/css/main.27e7636d.chunk.css.map": "/training-site/static/css/main.27e7636d.chunk.css.map",
-    "static/js/2.17aa58ad.chunk.js.LICENSE.txt": "/training-site/static/js/2.17aa58ad.chunk.js.LICENSE.txt",
-    "static/media/app.5079be16.jpg": "/training-site/static/media/app.5079be16.jpg",
-    "static/media/book-img.31487d1e.jpg": "/training-site/static/media/book-img.31487d1e.jpg",
-    "static/media/book2-img.2a40dae1.jpg": "/training-site/static/media/book2-img.2a40dae1.jpg",
+    "static/css/main.39c13a67.chunk.css.map": "/training-site/static/css/main.39c13a67.chunk.css.map",
+    "static/js/2.ecaf8a2f.chunk.js.LICENSE.txt": "/training-site/static/js/2.ecaf8a2f.chunk.js.LICENSE.txt",
+    "static/media/app-op.89c9d2c8.webp": "/training-site/static/media/app-op.89c9d2c8.webp",
+    "static/media/book-img-op.a83b0118.webp": "/training-site/static/media/book-img-op.a83b0118.webp",
+    "static/media/book2-img-op.6a36ce08.webp": "/training-site/static/media/book2-img-op.6a36ce08.webp",
     "static/media/foot-icon.e2a07bbd.jpg": "/training-site/static/media/foot-icon.e2a07bbd.jpg",
-    "static/media/icon1.90156d44.jpg": "/training-site/static/media/icon1.90156d44.jpg",
-    "static/media/icon2.cdcbe509.jpg": "/training-site/static/media/icon2.cdcbe509.jpg",
-    "static/media/icon3.c099320a.jpg": "/training-site/static/media/icon3.c099320a.jpg",
-    "static/media/icon4.9743e255.jpg": "/training-site/static/media/icon4.9743e255.jpg",
-    "static/media/icon5.9c74bbe2.jpg": "/training-site/static/media/icon5.9c74bbe2.jpg",
-    "static/media/icon6.646c2186.jpg": "/training-site/static/media/icon6.646c2186.jpg",
-    "static/media/icon7.95c47dd9.jpg": "/training-site/static/media/icon7.95c47dd9.jpg",
-    "static/media/icon8.f4c4cc67.jpg": "/training-site/static/media/icon8.f4c4cc67.jpg",
-    "static/media/ph-dash-1.e3b2f6fc.png": "/training-site/static/media/ph-dash-1.e3b2f6fc.png",
-    "static/media/train--bic.909ee853.jpg": "/training-site/static/media/train--bic.909ee853.jpg",
-    "static/media/wrk.78e75b60.jpg": "/training-site/static/media/wrk.78e75b60.jpg"
+    "static/media/ph-dash-1(op).c5d8c989.webp": "/training-site/static/media/ph-dash-1(op).c5d8c989.webp",
+    "static/media/train--bicop.422a5ac7.jpg": "/training-site/static/media/train--bicop.422a5ac7.jpg",
+    "static/media/wrk-op.9127098b.webp": "/training-site/static/media/wrk-op.9127098b.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.e8b989d0.js",
-    "static/js/2.17aa58ad.chunk.js",
-    "static/css/main.27e7636d.chunk.css",
-    "static/js/main.44178b8d.chunk.js"
+    "static/js/2.ecaf8a2f.chunk.js",
+    "static/css/main.39c13a67.chunk.css",
+    "static/js/main.ce21b33a.chunk.js"
   ]
 }
