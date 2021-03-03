@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/training-site/static/css/main.39c13a67.chunk.css",
-    "main.js": "/training-site/static/js/main.6e2fe0c2.chunk.js",
-    "main.js.map": "/training-site/static/js/main.6e2fe0c2.chunk.js.map",
+    "main.js": "/training-site/static/js/main.cc241931.chunk.js",
+    "main.js.map": "/training-site/static/js/main.cc241931.chunk.js.map",
     "runtime-main.js": "/training-site/static/js/runtime-main.e8b989d0.js",
     "runtime-main.js.map": "/training-site/static/js/runtime-main.e8b989d0.js.map",
     "static/js/2.ecaf8a2f.chunk.js": "/training-site/static/js/2.ecaf8a2f.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/training-site/index.html",
     "static/css/main.39c13a67.chunk.css.map": "/training-site/static/css/main.39c13a67.chunk.css.map",
     "static/js/2.ecaf8a2f.chunk.js.LICENSE.txt": "/training-site/static/js/2.ecaf8a2f.chunk.js.LICENSE.txt",
-    "static/media/app-op.89c9d2c8.webp": "/training-site/static/media/app-op.89c9d2c8.webp",
+    "static/media/app-op2.3199aa6b.webp": "/training-site/static/media/app-op2.3199aa6b.webp",
     "static/media/book-img-op.a83b0118.webp": "/training-site/static/media/book-img-op.a83b0118.webp",
     "static/media/book2-img-op.6a36ce08.webp": "/training-site/static/media/book2-img-op.6a36ce08.webp",
     "static/media/ph-dash-1(op).34bd6382.webp": "/training-site/static/media/ph-dash-1(op).34bd6382.webp",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e8b989d0.js",
     "static/js/2.ecaf8a2f.chunk.js",
     "static/css/main.39c13a67.chunk.css",
-    "static/js/main.6e2fe0c2.chunk.js"
+    "static/js/main.cc241931.chunk.js"
   ]
 }
