@@ -2,13 +2,13 @@ import React from 'react'
 import gsap from 'gsap'
 
 import './book.css'
-import bookImg from './img/book-img.jpg'
-import bookImg2 from './img/book2-img.jpg'
-import wrkImg from './img/wrk.jpg'
-import app from './img/app.jpg'
+import bookImg from './img/book-img-op.webp'
+import bookImg2 from './img/book2-img-op.webp'
+import wrkImg from './img/wrk-op.webp'
+import app from './img/app-op2.webp'
 
 const Book = () => {
-      const bookImgRef = React.useRef(null)
+    const bookImgRef = React.useRef(null)
     const booktitleRef = React.useRef(null)
     const bookText = React.useRef(null)
 
@@ -69,7 +69,7 @@ const Book = () => {
                      </h2>
                      <p>- Josephine Austin</p>
                  </div>
-                 <div className="book-img" ref={quoText}>
+                 <div className="book-img wrk" ref={quoText}>
                     <img src={wrkImg} alt=""/>
                 </div>
             </div>

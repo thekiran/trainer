@@ -3,14 +3,14 @@ import gsap from 'gsap'
 
 import './brands.css'
 
-import icon1 from './img/icon1.jpg'
-import icon2 from './img/icon2.jpg'
-import icon3 from './img/icon3.jpg'
-import icon4 from './img/icon4.jpg'
-import icon5 from './img/icon5.jpg'
-import icon6 from './img/icon6.jpg'
-import icon7 from './img/icon7.jpg'
-import icon8 from './img/icon8.jpg'
+import icon1 from './img/icon1op.jpg'
+import icon2 from './img/Optimized-icon2.jpg'
+import icon3 from './img/Optimized-icon3.jpg'
+import icon4 from './img/Optimized-icon4.jpg'
+import icon5 from './img/Optimized-icon5.jpg'
+import icon6 from './img/Optimized-icon6.jpg'
+import icon7 from './img/download.jpg'
+import icon8 from './img/Optimized-icon8.jpg'
 
 const Brands = () => {
     // const heroRef = React.useRef(null)

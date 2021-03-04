@@ -3,7 +3,7 @@ import React from 'react'
 import gsap from 'gsap'
 
 import './discover.css'
-import bic from './img/train--bic.jpg'
+import bic from './img/train--bicop.jpg'
 // import dark from './img/dark-bd.jpg'
 const Discover = () => {
     const disTitle = React.useRef(null)
@@ -13,9 +13,9 @@ const Discover = () => {
     React.useEffect(()=>{
         gsap.from(disTitle.current,{x:100,scale:0,duration:.3,scrollTrigger:{target:".dis-para"},})
 
-        gsap.from(disPara.current,{x:100,scrollTrigger:'.dis-para', opacity:0,stagger:.1,duration:.4,opacity:0})
+        gsap.from(disPara.current,{x:100,scrollTrigger:'.dis-para', opacity:0,stagger:.1,duration:.4})
   
-        gsap.from(disImg.current,{x:-100,scrollTrigger:'.bic', opacity:0,duration:.4,opacity:0})
+        gsap.from(disImg.current,{x:-100,scrollTrigger:'.bic',duration:.4,opacity:0})
   
     },[])
     return (

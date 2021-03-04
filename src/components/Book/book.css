@@ -48,6 +48,7 @@
   font-weight: 700;
 }
 
+
 @media (max-width: 576px) {
   .book .container {
     flex-direction: column;
@@ -56,17 +57,23 @@
     margin: 0em 0 0 1.5em;
     margin: 0;
   }
+  
+.book-content.wrk h2 {
+  font-size: 2em;
+  margin: 0em 0 0 0em;
+}
   .book-content p {
     margin: 0.5em 0 0 0.2em;
     margin: 0;
-    width: 100vw;
+    width: 95vw
   }
   .book-img {
     width: 100%;
+    height: auto;
 margin: 0 auto;}
 
 .book-img img {
-    width: 100vw;
+    width: 90vw;
 }
 .book-content h2 { 
     margin: 0;}

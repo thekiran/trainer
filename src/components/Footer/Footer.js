@@ -1,6 +1,6 @@
 import React from 'react'
 
-import footIcon from './img/foot-icon.jpg'
+import footIcon from './img/foot-icon-op.jpg'
 import './footer.css'
 const Footer = () => {
     return (
@@ -18,11 +18,11 @@ const Footer = () => {
 
                     </div>
                     <div className="social-icons">
-                        <div className="social yt"><i class="fab fa-youtube"></i></div>
-                        <div className="social insta"><i class="fab fa-instagram"></i></div>
-                        <div className="social fb"><i class="fab fa-facebook"></i></div>
+                        <div className="social yt"><i className="fab fa-youtube"></i></div>
+                        <div className="social insta"><i className="fab fa-instagram"></i></div>
+                        <div className="social fb"><i className="fab fa-facebook"></i></div>
                     </div>
-                </div>
+                </div> 
                 <div className="footer-body">
                     <div className="copy">&copy 2021 All Rights Reserved.</div>
                     <span>Terms&Conditions</span>
