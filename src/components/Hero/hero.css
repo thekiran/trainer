@@ -46,8 +46,9 @@
     padding: 15px; 
     cursor: pointer; 
     border-radius: 25px;
-    background: #DDDFE2;
-    color: #e31702;
+    background: #d1d5db;
+    /* color: #e31702; */
+    color: #9c0808;
     font-family: 'Roboto', sans-serif;
     margin: 30px 0;
     position: relative;
@@ -88,9 +89,6 @@
     /* background: rgb(238, 233, 233); */
 }
 
-.main-img.active{
- /* padding-right: 200px; */
-}
 .main-img img{
     width: 475px;
     height: 525px; 
@@ -117,4 +115,8 @@
 .main-img{
     margin: 4em auto 0 auto;
 }
+
+.main-img.active{
+    display: none;
+   }
 }

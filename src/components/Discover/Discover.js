@@ -3,7 +3,8 @@ import React from 'react'
 import gsap from 'gsap'
 
 import './discover.css'
-import bic from './img/train--bicop.jpg'
+// import bic from './img/train.webp'
+import bic from './train.svg'
 // import dark from './img/dark-bd.jpg'
 const Discover = () => {
     const disTitle = React.useRef(null)
@@ -22,8 +23,8 @@ const Discover = () => {
         <div className="discover">
             <div className="discover-content">
                 <div className="dis-imgs">
-                    <img src={bic} ref={disImg}className="bic" alt=""/>
-                    {/* <img src={dark} className="dark" alt=""/> */}
+                    <img src={bic} ref={disImg} loading="lazy" className="bic" alt=""/>
+                    {/* <img src={dark} className="dark" alt=""/> */}  
                 </div>
                 <div className="dis-content">
                     <div className="dis-title">
