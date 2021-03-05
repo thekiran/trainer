@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/training-site/static/css/main.3e45578c.chunk.css",
-    "main.js": "/training-site/static/js/main.c1d2e7cc.chunk.js",
-    "main.js.map": "/training-site/static/js/main.c1d2e7cc.chunk.js.map",
+    "main.css": "/training-site/static/css/main.b5c8f414.chunk.css",
+    "main.js": "/training-site/static/js/main.30fb873f.chunk.js",
+    "main.js.map": "/training-site/static/js/main.30fb873f.chunk.js.map",
     "runtime-main.js": "/training-site/static/js/runtime-main.e8b989d0.js",
     "runtime-main.js.map": "/training-site/static/js/runtime-main.e8b989d0.js.map",
     "static/js/2.fe08192a.chunk.js": "/training-site/static/js/2.fe08192a.chunk.js",
     "static/js/2.fe08192a.chunk.js.map": "/training-site/static/js/2.fe08192a.chunk.js.map",
     "index.html": "/training-site/index.html",
-    "static/css/main.3e45578c.chunk.css.map": "/training-site/static/css/main.3e45578c.chunk.css.map",
+    "static/css/main.b5c8f414.chunk.css.map": "/training-site/static/css/main.b5c8f414.chunk.css.map",
     "static/js/2.fe08192a.chunk.js.LICENSE.txt": "/training-site/static/js/2.fe08192a.chunk.js.LICENSE.txt",
     "static/media/app-op2.3199aa6b.webp": "/training-site/static/media/app-op2.3199aa6b.webp",
     "static/media/book-img-op.a83b0118.webp": "/training-site/static/media/book-img-op.a83b0118.webp",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8b989d0.js",
     "static/js/2.fe08192a.chunk.js",
-    "static/css/main.3e45578c.chunk.css",
-    "static/js/main.c1d2e7cc.chunk.js"
+    "static/css/main.b5c8f414.chunk.css",
+    "static/js/main.30fb873f.chunk.js"
   ]
 }
