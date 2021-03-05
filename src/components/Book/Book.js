@@ -97,13 +97,13 @@ const Book = () => {
           </p>
         </div>
         <div className='book-img' ref={bookImgRef}>
-          {img && <img src={bookImg} loading="lazy" alt=""/>} 
+          {img && <img src={bookImg} loading="lazy" height="575" width="600" alt=""/>} 
         </div>
       </div>
 
       <div className='container'>
         <div className='book-img' ref={buildImgRef}>
-          <img src={bookImg2} loading="lazy" alt='' />
+          <img src={bookImg2} loading="lazy" height="575" width="600" alt='' />
         </div>
         <div className='book-content'>
           <h2 ref={buildtitleRef}>
@@ -127,7 +127,7 @@ const Book = () => {
           <p>- Josephine Austin</p>
         </div>
         <div className='book-img wrk' ref={quoText}>
-          <img src={wrkImg} loading="lazy" alt='' />
+          <img src={wrkImg} loading="lazy" height="575" width="600" alt='' />
         </div>
       </div>
       <div className='ap'>
