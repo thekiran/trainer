@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/training-site/static/css/main.b5c8f414.chunk.css",
-    "main.js": "/training-site/static/js/main.7e830869.chunk.js",
-    "main.js.map": "/training-site/static/js/main.7e830869.chunk.js.map",
-    "runtime-main.js": "/training-site/static/js/runtime-main.e8b989d0.js",
-    "runtime-main.js.map": "/training-site/static/js/runtime-main.e8b989d0.js.map",
-    "static/js/2.13cd7fd4.chunk.js": "/training-site/static/js/2.13cd7fd4.chunk.js",
-    "static/js/2.13cd7fd4.chunk.js.map": "/training-site/static/js/2.13cd7fd4.chunk.js.map",
+    "main.css": "/training-site/static/css/main.a322c753.chunk.css",
+    "main.js": "/training-site/static/js/main.99e4acef.chunk.js",
+    "main.js.map": "/training-site/static/js/main.99e4acef.chunk.js.map",
+    "runtime-main.js": "/training-site/static/js/runtime-main.44963c03.js",
+    "runtime-main.js.map": "/training-site/static/js/runtime-main.44963c03.js.map",
+    "static/js/2.f9e3ea28.chunk.js": "/training-site/static/js/2.f9e3ea28.chunk.js",
+    "static/js/2.f9e3ea28.chunk.js.map": "/training-site/static/js/2.f9e3ea28.chunk.js.map",
+    "static/css/3.e263843b.chunk.css": "/training-site/static/css/3.e263843b.chunk.css",
+    "static/js/3.871ad1bc.chunk.js": "/training-site/static/js/3.871ad1bc.chunk.js",
+    "static/js/3.871ad1bc.chunk.js.map": "/training-site/static/js/3.871ad1bc.chunk.js.map",
+    "static/css/4.c6586c12.chunk.css": "/training-site/static/css/4.c6586c12.chunk.css",
+    "static/js/4.de4e68a8.chunk.js": "/training-site/static/js/4.de4e68a8.chunk.js",
+    "static/js/4.de4e68a8.chunk.js.map": "/training-site/static/js/4.de4e68a8.chunk.js.map",
+    "static/css/5.67aeb6f6.chunk.css": "/training-site/static/css/5.67aeb6f6.chunk.css",
+    "static/js/5.c3c3312e.chunk.js": "/training-site/static/js/5.c3c3312e.chunk.js",
+    "static/js/5.c3c3312e.chunk.js.map": "/training-site/static/js/5.c3c3312e.chunk.js.map",
     "index.html": "/training-site/index.html",
-    "static/css/main.b5c8f414.chunk.css.map": "/training-site/static/css/main.b5c8f414.chunk.css.map",
-    "static/js/2.13cd7fd4.chunk.js.LICENSE.txt": "/training-site/static/js/2.13cd7fd4.chunk.js.LICENSE.txt",
+    "static/css/3.e263843b.chunk.css.map": "/training-site/static/css/3.e263843b.chunk.css.map",
+    "static/css/4.c6586c12.chunk.css.map": "/training-site/static/css/4.c6586c12.chunk.css.map",
+    "static/css/5.67aeb6f6.chunk.css.map": "/training-site/static/css/5.67aeb6f6.chunk.css.map",
+    "static/css/main.a322c753.chunk.css.map": "/training-site/static/css/main.a322c753.chunk.css.map",
+    "static/js/2.f9e3ea28.chunk.js.LICENSE.txt": "/training-site/static/js/2.f9e3ea28.chunk.js.LICENSE.txt",
     "static/media/app-op2.3199aa6b.webp": "/training-site/static/media/app-op2.3199aa6b.webp",
     "static/media/book-img-op.a83b0118.webp": "/training-site/static/media/book-img-op.a83b0118.webp",
     "static/media/book2-img-op.6a36ce08.webp": "/training-site/static/media/book2-img-op.6a36ce08.webp",
@@ -18,9 +30,9 @@
     "static/media/wrk-op.9127098b.webp": "/training-site/static/media/wrk-op.9127098b.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8b989d0.js",
-    "static/js/2.13cd7fd4.chunk.js",
-    "static/css/main.b5c8f414.chunk.css",
-    "static/js/main.7e830869.chunk.js"
+    "static/js/runtime-main.44963c03.js",
+    "static/js/2.f9e3ea28.chunk.js",
+    "static/css/main.a322c753.chunk.css",
+    "static/js/main.99e4acef.chunk.js"
   ]
 }
