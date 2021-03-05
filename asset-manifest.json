@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/training-site/static/css/main.a322c753.chunk.css",
-    "main.js": "/training-site/static/js/main.99e4acef.chunk.js",
-    "main.js.map": "/training-site/static/js/main.99e4acef.chunk.js.map",
+    "main.js": "/training-site/static/js/main.b3d98b2d.chunk.js",
+    "main.js.map": "/training-site/static/js/main.b3d98b2d.chunk.js.map",
     "runtime-main.js": "/training-site/static/js/runtime-main.44963c03.js",
     "runtime-main.js.map": "/training-site/static/js/runtime-main.44963c03.js.map",
     "static/js/2.f9e3ea28.chunk.js": "/training-site/static/js/2.f9e3ea28.chunk.js",
@@ -17,6 +17,8 @@
     "static/js/5.c3c3312e.chunk.js": "/training-site/static/js/5.c3c3312e.chunk.js",
     "static/js/5.c3c3312e.chunk.js.map": "/training-site/static/js/5.c3c3312e.chunk.js.map",
     "index.html": "/training-site/index.html",
+    "service-worker.js": "/training-site/service-worker.js",
+    "service-worker.js.map": "/training-site/service-worker.js.map",
     "static/css/3.e263843b.chunk.css.map": "/training-site/static/css/3.e263843b.chunk.css.map",
     "static/css/4.c6586c12.chunk.css.map": "/training-site/static/css/4.c6586c12.chunk.css.map",
     "static/css/5.67aeb6f6.chunk.css.map": "/training-site/static/css/5.67aeb6f6.chunk.css.map",
@@ -33,6 +35,6 @@
     "static/js/runtime-main.44963c03.js",
     "static/js/2.f9e3ea28.chunk.js",
     "static/css/main.a322c753.chunk.css",
-    "static/js/main.99e4acef.chunk.js"
+    "static/js/main.b3d98b2d.chunk.js"
   ]
 }
