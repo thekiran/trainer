@@ -1,7 +1,7 @@
 .brand-container{
     /* background: red; */
     margin: 2em 0;
-    
+    min-height: 230px;
     /* transform: scale(2);
     position: relative; */
 }

@@ -1,7 +1,7 @@
 .discover{
     margin: 2em 0;
     background: #edeef0;
-    /* background: red; */
+    background: rgba(255, 0, 0, 0.5);
 }
 /* #DDDFE2 whit
 #8e97a6 gry
@@ -18,7 +18,7 @@
     /* justify-content: space-between; */
     /* align-items: flex-start; */
     height: 100%;
-    background: #edeef0;
+    /* background: #edeef0; */
 }
 .dis-imgs{
     height: 500px;

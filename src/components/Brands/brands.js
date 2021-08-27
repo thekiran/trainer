@@ -1,6 +1,6 @@
 import React from 'react'
 import gsap from 'gsap'
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
  
 import './brands.css'
 
@@ -29,28 +29,28 @@ const Brands = () => {
         <div className="brand-container">
             <div className="brand-content">
                 <div className="brand-img1">
-                    <LazyLoadImage effect="blur" src={icon1} alt="" loading="lazy" className="brand-img"/>
+                    <img src={icon1} alt="" className="brand-img"/>
                 </div>
                 <div className="brand-img2">
-                    <LazyLoadImage effect="blur" effect="blur" src={icon2} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon2} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img3">
-                    <LazyLoadImage effect="blur" src={icon3} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon3} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img4">
-                    <LazyLoadImage effect="blur" src={icon4} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon4} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img5">
-                    <LazyLoadImage effect="blur" src={icon5} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon5} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img6">
-                    <LazyLoadImage effect="blur" src={icon6} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon6} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img7">
-                    <LazyLoadImage effect="blur" src={icon7} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon7} className="brand-imgs" alt=""/>
                 </div>
                 <div className="brand-img8">
-                    <LazyLoadImage effect="blur" src={icon8} loading="lazy" className="brand-imgs" alt=""/>
+                    <img src={icon8} className="brand-imgs" alt=""/>
                 </div>
             </div>
         </div>
