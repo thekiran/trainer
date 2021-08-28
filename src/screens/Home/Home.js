@@ -3,13 +3,15 @@ import React from 'react'
 import Navbar from '../../components/Navbar/Navbar'
 import Hero from '../../components/Hero/Hero'
 import Discover from '../../components/Discover/Discover'
-import Book from '../../components/Book/Book'
+// import Book from '../../components/Book/Book'
 // import Brands from '../../components/Brands/brands'
-import Footer from '../../components/Footer/Footer'
+// import Footer from '../../components/Footer/Footer'
  
 
 // import { showBrands } from '../../Lazyloading/LazyLoadingFunctions'
-import { LazyBrand } from '../../Lazyloading/LazyLoadingTriggers'
+import { LazyBrand } from '../../Lazyloading/Triggers/LazyBrand'
+import { LazyBook } from '../../Lazyloading/Triggers/LazyBook'
+import  LazyFooter  from '../../Lazyloading/Triggers/LazyFooter'
 // const Brands = lazy(() => import('../../components/Brands/brands'))
 // const Book = lazy(() => import('../../components/Book/Book'))
 // const Footer = lazy(() => import('../../components/Footer/Footer'))
@@ -69,20 +71,21 @@ const Home = () => {
 
 
 
+      <LazyBrand />
+      <LazyBook />
+      <LazyFooter />
+
+      {/* <Brands /> */}
+      {/* <Book /> */}
+      {/* <Footer /> */}
+     
+
+
      {/* <div //ref={rev} 
      className="targetforbrands" style={{height:"230px",background:"rgba(0,0,0,.25)"}} /> */}
      
           {/* { target && <div className="target-cover" style={{height:"230px",background:"rgba(255,0,0,.25)"}}> { showBrands() } </div>} */}
    
-      <LazyBrand />
-
-
-
-      <Book />
-      <Footer />
-     
-
-
       {/* <LazyLoadComponent>
               <Suspense fallback={<div>Loading...</div>}>
                       <Fragment>
