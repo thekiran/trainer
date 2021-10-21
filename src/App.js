@@ -7,5 +7,5 @@ function App() {
   gsap.registerPlugin(ScrollTrigger)
   return <Home />
 }
-
+ 
 export default App;
